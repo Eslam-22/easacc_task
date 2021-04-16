@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1046493023136",
+    "project_id": "teak-sun-310112",
+    "storage_bucket": "teak-sun-310112.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046493023136:android:98a255a4cfd6528ac8b2c5",
+        "android_client_info": {
+          "package_name": "com.example.easacc_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046493023136-8tgid67agdm3n654a62f2h7rju9qhcv4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3gQkRP0oKC5kU4Clr6_n-7smGHIOwUtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046493023136-8tgid67agdm3n654a62f2h7rju9qhcv4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
